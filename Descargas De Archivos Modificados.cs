@@ -100,7 +100,7 @@ namespace Sistema
 
             Console.WriteLine("\n======= RESUMEN DE DESCARGA =======");
             Console.WriteLine($"Archivo Descargados: {archivoDescargardos}");
-            Console.WriteLine($"Archivos Descvargados: {totalMB} MB");
+            Console.WriteLine($"Archivos Descargados: {totalMB} MB");
             Console.WriteLine("=======================================");
         }
     }
